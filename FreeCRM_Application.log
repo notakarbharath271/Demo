@@ -1,0 +1,320 @@
+2022-10-09 10:17:29,862 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:17:29,866 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:17:44,064 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:17:49,449 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 10:17:49,600 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 10:17:49,725 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 10:17:56,801 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15c6773fb07a7a093147310f18a324e0, findElement {using=xpath, value=//td[contains(text(),'User:')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53376}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53376/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15c6773fb07a7a093147310f18a324e0
+2022-10-09 10:19:26,544 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:19:26,548 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:19:28,840 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:19:44,131 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 10:19:44,278 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 10:19:44,417 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 10:19:56,408 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application unsucessfully.
+2022-10-09 10:23:22,730 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:23:22,734 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:23:24,968 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:27:37,014 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:27:37,018 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:27:39,323 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:29:17,600 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:29:17,605 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:29:20,516 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:29:26,385 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 10:29:26,515 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 10:29:26,673 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 10:29:35,187 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [04fe40092b877f1ac5ba52580a0861f5, findElement {using=xpath, value=//td[contains(text(),'User:')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53577}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53577/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 04fe40092b877f1ac5ba52580a0861f5
+2022-10-09 10:30:30,356 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:30:30,362 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:30:32,765 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:30:39,137 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 10:30:39,324 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 10:30:39,479 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 10:30:49,214 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application unsucessfully.
+2022-10-09 10:32:24,474 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 10:32:24,478 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 10:32:27,191 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 10:32:31,898 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 10:32:32,046 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 10:32:32,152 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 10:32:39,522 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 15:52:17,767 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 15:52:17,771 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 15:52:20,897 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 15:52:26,692 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 15:52:26,744 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 15:52:26,899 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 15:56:16,231 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 15:56:16,236 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 15:56:19,182 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 15:56:25,296 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 15:56:25,355 [ERROR] com.freecrm.pageObjects.LoginPage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='usernam']"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31f8fd2fb561d4e9234e4ffce62346ac, findElement {using=xpath, value=//*[@name='usernam']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54124}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54124/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 31f8fd2fb561d4e9234e4ffce62346ac
+2022-10-09 15:56:25,850 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 15:56:26,091 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:06:45,370 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:06:45,375 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:06:48,103 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:11:07,350 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:11:07,355 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:11:10,245 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:11:15,614 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:11:15,680 [ERROR] com.freecrm.pageObjects.LoginPage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='usernam']"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [601ea83f6d648d93a86ff2ef8a50cd37, findElement {using=xpath, value=//*[@name='usernam']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54475/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 601ea83f6d648d93a86ff2ef8a50cd37
+2022-10-09 16:11:16,019 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:11:16,184 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:29:00,119 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:29:00,127 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:29:02,551 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:29:08,483 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:29:08,535 [ERROR] com.freecrm.pageObjects.LoginPage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='usernam']"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3daef0a561fad719c595c8e1d3f7fdd7, findElement {using=xpath, value=//*[@name='usernam']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54706}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54706/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3daef0a561fad719c595c8e1d3f7fdd7
+2022-10-09 16:29:08,824 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:29:08,994 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:30:35,129 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:30:35,133 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:30:37,549 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:30:43,531 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:30:43,713 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:30:43,845 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:30:52,780 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 16:32:47,511 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:32:47,516 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:32:50,405 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:32:55,796 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:32:55,944 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:32:56,075 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:33:02,314 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 16:36:06,427 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:36:06,430 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:36:08,698 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:36:16,350 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:36:16,514 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:36:16,646 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:36:25,148 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 16:38:25,732 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 16:38:25,735 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 16:38:27,998 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 16:38:34,862 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 16:38:35,024 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 16:38:35,164 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 16:38:41,132 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 17:29:04,660 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:29:04,664 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:29:07,983 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:29:14,297 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:29:14,387 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:29:14,470 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:32:14,103 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:32:14,106 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:32:16,250 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:32:21,910 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:32:22,014 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:32:22,114 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:32:28,891 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 17:35:57,324 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:35:57,328 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:35:59,933 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:36:05,455 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:36:05,482 [ERROR] com.freecrm.pageObjects.LoginPage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='usernam']"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42ef15304b8e7ffdfee9b09f163718d8, findElement {using=xpath, value=//*[@name='usernam']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63434}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63434/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42ef15304b8e7ffdfee9b09f163718d8
+2022-10-09 17:36:05,732 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:36:05,836 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:39:17,555 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:39:17,559 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:39:20,019 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:39:25,263 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:39:25,301 [ERROR] com.freecrm.pageObjects.LoginPage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@name='usernam']"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae0da04f5e196dd754e8f8c80740a320, findElement {using=xpath, value=//*[@name='usernam']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63521/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae0da04f5e196dd754e8f8c80740a320
+2022-10-09 17:39:25,472 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:39:25,566 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:41:05,073 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:41:05,076 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:41:07,180 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:41:12,462 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:41:12,571 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:41:12,646 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:41:18,367 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 17:42:17,660 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:42:17,663 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:42:20,462 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:42:25,696 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:42:25,815 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:42:25,900 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:42:32,869 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6a1e379bd5991feff82bcd1dc354a9a7, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63643}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63643/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a1e379bd5991feff82bcd1dc354a9a7
+2022-10-09 17:44:01,381 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:44:01,385 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:44:03,841 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:44:09,956 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:44:10,037 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:44:10,113 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:45:35,735 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:45:35,739 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:45:38,142 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:45:43,535 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:45:43,637 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:45:43,721 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:45:49,846 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4670e2c8c2daf5649c31888a7f1a666, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63784}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63784/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e4670e2c8c2daf5649c31888a7f1a666
+2022-10-09 17:47:13,283 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 17:47:13,290 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 17:47:17,544 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 17:47:24,125 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 17:47:24,297 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 17:47:24,414 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 17:47:31,469 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ead933238569c0a05e7a87b79f3788ee, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63870}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63870/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ead933238569c0a05e7a87b79f3788ee
+2022-10-09 18:07:07,055 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 18:07:07,058 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 18:07:09,773 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 18:07:14,916 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 18:07:15,030 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 18:07:15,116 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 18:07:21,233 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aeefed7818f0e1a86486b0d2c10de79d, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59690}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59690/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aeefed7818f0e1a86486b0d2c10de79d
+2022-10-09 18:10:57,001 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 18:10:57,005 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 18:10:59,618 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 18:11:04,761 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 18:11:04,877 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 18:11:04,956 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 18:11:10,666 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3c5b6f2bafb98d8d213e888fed3cabe, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59808/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3c5b6f2bafb98d8d213e888fed3cabe
+2022-10-09 18:16:21,054 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 18:16:21,058 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 18:16:23,811 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 18:16:29,074 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 18:16:29,178 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 18:16:29,259 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 18:16:35,284 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [193668f1d074acc1678ae629e987ce44, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60059}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60059/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 193668f1d074acc1678ae629e987ce44
+2022-10-09 18:17:17,030 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 18:17:17,034 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 18:17:19,401 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 18:17:24,810 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 18:17:24,911 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 18:17:24,995 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 18:17:33,301 [ERROR] com.freecrm.pageObjects.HomePage [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[contains(text(),'User:xyz')]"}
+  (Session info: chrome=106.0.5249.91)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.5.0', revision: 'fe167b119a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db8bfae160d846a7fb1b00f985bcbdd0, findElement {using=xpath, value=//td[contains(text(),'User:xyz')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.91, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\bhara\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60127}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60127/devtoo..., se:cdpVersion: 106.0.5249.91, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: db8bfae160d846a7fb1b00f985bcbdd0
+2022-10-09 18:59:48,506 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 18:59:48,510 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 18:59:51,475 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 18:59:56,253 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 18:59:56,349 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 18:59:56,423 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 19:00:03,556 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.
+2022-10-09 19:02:19,927 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 19:02:19,930 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 19:02:22,100 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 19:02:27,156 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 19:02:27,236 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 19:02:27,312 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 19:03:42,434 [INFO ] com.freecrm.stepDefinations.Common_StepDef [main] Scenario name is : This test is to create the new comapny
+2022-10-09 19:03:42,438 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Loaded the porperties from the properties file.
+2022-10-09 19:03:44,579 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Open the url : https://classic.freecrm.com/index.html
+2022-10-09 19:03:49,773 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the username into username filed : BharathTest
+2022-10-09 19:03:49,870 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Enter the password into password filed : https://classic.freecrm.com/index.html
+2022-10-09 19:03:49,950 [INFO ] com.freecrm.commonUtilities.CommonUtilis [main] Clicks on login button 
+2022-10-09 19:03:57,808 [INFO ] com.freecrm.pageObjects.HomePage [main] User is logging to application sucessfully.

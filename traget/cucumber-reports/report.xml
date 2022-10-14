@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.074">
+    <testcase classname="This feature is to create the new company" name="This test is to create the new comapny" time="15.898">
+        <system-out><![CDATA[Given the user is logged in sucussfully and is on home page.................passed
+When the user mouse over on the company option from the menu bar and clicks on new company from the list.passed
+And fill the from with appropreate details..................................passed
+And clicks on the save button...............................................passed
+Then the user should able to see the new company created "Company Name".....passed
+]]></system-out>
+    </testcase>
+</testsuite>
